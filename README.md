@@ -7,6 +7,10 @@
     -open terminal
     -run npm install
     -open ganache for blockchain
+<<<<<<< Updated upstream
     -start to create contracts and web View
 
     
+=======
+    -start to create contracts and web View
+>>>>>>> Stashed changes
