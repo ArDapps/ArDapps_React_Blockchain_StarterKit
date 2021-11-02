@@ -1,6 +1,7 @@
 # Getting Started with Create  Blockchain Project with React App
 
-how can use
+# how can use:
+
     -Dwonlaod Project
     -Open the folder in Vcode
     -open terminal
